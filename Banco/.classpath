@@ -6,5 +6,10 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+<<<<<<< HEAD
 	<classpathentry kind="output" path="bin"/>
+=======
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="output" path="src"/>
+>>>>>>> 0d73c58ea95df78168215491f262e3c078470685
 </classpath>
